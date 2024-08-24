@@ -1,0 +1,32 @@
+.product_image_area {
+    background-color: #8a9bcb;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .slick-dots.custom-dots {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .slick-dots.custom-dots li {
+    margin: 0 0 10px 0;
+  }
+  
+  .custom-dot {
+    width: 10px;
+    height: 10px;
+    background-color: #ffa500;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .slick-dots.custom-dots li.slick-active .custom-dot {
+    background-color: #ffffff;
+  }
+  
