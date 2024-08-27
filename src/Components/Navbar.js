@@ -64,7 +64,7 @@ const Header = () => {
                       <li className="nav-item"><a className="nav-link" href="category.html">Shop Category</a></li>
                       <li className="nav-item"><a className="nav-link" href="/Shop-Deatil">Product Details</a></li>
                       <li className="nav-item"><a className="nav-link" href="checkout.html">Product Checkout</a></li>
-                      <li className="nav-item"><a className="nav-link" href="cart.html">Shopping Cart</a></li>
+                      <li className="nav-item"><a className="nav-link" href="/Shop-Cart">Shopping Cart</a></li>
                       <li className="nav-item"><a className="nav-link" href="confirmation.html">Confirmation</a></li>
                     </ul>
                   </li>
